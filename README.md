@@ -21,4 +21,6 @@ timestamp: La marca de tiempo cuando se registró el uso de ancho de banda (time
 
 [![APP-WEB-ANCHO-DE-BANDA.png](https://i.postimg.cc/vmbfRY8p/APP-WEB-ANCHO-DE-BANDA.png)](https://postimg.cc/qNDzyd3L)
 
+Servidor Apache - phpAdmin
 
+[![servidor.png](https://i.postimg.cc/gJ4XRQhQ/servidor.png)](https://postimg.cc/BLLnfhMB)
