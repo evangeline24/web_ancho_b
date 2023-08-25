@@ -1,5 +1,4 @@
 # web_ancho_banda
-# ASSR PROYECTO
 
 ## Paso 1: Configuración del Proyecto
 
