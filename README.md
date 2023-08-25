@@ -1,4 +1,4 @@
-# web_ancho_b
+# web_ancho_banda
 ASSR PROYECTO
 Diagrama de la Base de Datos:
 
