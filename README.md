@@ -9,6 +9,8 @@
    - `socket.io` para la comunicación en tiempo real.
    - `mongoose` para interactuar con MongoDB.
    - Otras bibliotecas según tus necesidades (por ejemplo, para gráficos o estilos).
+  
+[![install.png](https://i.postimg.cc/Dw9G1mfX/install.png)](https://postimg.cc/NKxLcsHs)
 
 ## Paso 2: Configuración del Servidor
 
