@@ -18,6 +18,8 @@
 2. Configurar Express y crear el servidor HTTP.
 3. Configurar Socket.io para comunicación en tiempo real.
 
+[![servere.png](https://i.postimg.cc/dtTtr6h5/servere.png)](https://postimg.cc/0bPsqpdS)
+
 ## Paso 3: Configuración de MongoDB
 
 1. Configurar la conexión a tu base de datos MongoDB en `server.js` utilizando `mongoose`.
