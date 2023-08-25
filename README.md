@@ -22,24 +22,32 @@ timestamp: La marca de tiempo cuando se registró el uso de ancho de banda (time
 [![APP-WEB-ANCHO-DE-BANDA.png](https://i.postimg.cc/vmbfRY8p/APP-WEB-ANCHO-DE-BANDA.png)](https://postimg.cc/qNDzyd3L)
 
 METODOLOGÍA
+
 Paso 1: Configuración del Proyecto
 
 Crea una carpeta para el proyecto y abrir una terminal en esa ubicación.
-Inicializa un proyecto Node.js ejecutando npm init. Sigue las instrucciones para configurar tu proyecto.
+Inicializar un proyecto Node.js ejecutando npm init. 
 Instale las dependencias necesarias:
+
 expresspara crear el servidor.
+
 socket.iopara la comunicación en tiempo real.
+
 mongoosepara interactuar con MongoDB.
+
 Otras bibliotecas según tus necesidades (por ejemplo, para gráficos o estilos).
+
 Paso 2: Configuración del Servidor
 
 Crea un archivo server.jspara tu servidor.
 Configura Express y crea el servidor HTTP.
 Configura Socket.io para comunicación en tiempo real.
+
 Paso 3: Configuración de MongoDB
 
 Configure la conexión a su base de datos MongoDB server.jsutilizando mongoose.
 Define los esquemas y modelos necesarios para tus datos (por ejemplo, dispositivos y uso de ancho de banda).
+
 Paso 4: Lógica de Monitoreo y Comunicación en Tiempo Real
 
 Implementa la lógica para recopilar los datos de uso de ancho de banda y almacenarlos en la base de datos.
