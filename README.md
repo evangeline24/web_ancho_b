@@ -18,6 +18,6 @@ device_id: Clave foránea (int) que se relaciona con el idde la tabla devices.
 bandwidth_usage: El valor de uso de ancho de banda (decimal).
 timestamp: La marca de tiempo cuando se registró el uso de ancho de banda (timestamp).
 
-![Diagrama de base de datos](https://ibb.co/3yh1sPw)
+![Diagrama de base de datos]
 
 
